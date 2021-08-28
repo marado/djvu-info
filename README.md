@@ -20,3 +20,6 @@ dead by now, what a surprise.
 
 Anyway, this is meant to be a script that reads a `.djvu` file and tells you if
 it really is a DjVu file, SDjVu, or not.
+
+A second script, `sdjvu-info.js`, is meant to be used on SDjVu files, letting
+you know what sort of DRM it contains.
